@@ -10,4 +10,4 @@
 - [ ] Ajoute d'un filigrane sûr l'image
 - [ ] Ajoute de logs
 
-![Exemple 1](http://i.unispace.games/300.jfif)
+![Exemple 1](./lib/300.jfif)
