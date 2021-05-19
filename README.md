@@ -8,6 +8,6 @@
     4. Couleur du texte
 - [ ] Redimention d'image
 - [ ] Ajoute d'un filigrane sûr l'image
-- [ ] Ajoute de logs
+- [x] Ajoute de logs
 
 ![Exemple 1](./lib/300.jfif)
